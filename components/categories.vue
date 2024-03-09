@@ -67,7 +67,7 @@ export default {
   border-radius: 5px;
   margin: 5px;
   margin-left: 10px;
-  cursor: pointer;git init
+  cursor: pointer;
 }
 .categories-item-text:hover {
   color: white;
